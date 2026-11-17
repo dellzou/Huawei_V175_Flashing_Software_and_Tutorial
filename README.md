@@ -16,14 +16,16 @@
 
 ## 相关仓库
 
-同品牌其它机型，命令体系相近，排障时可以互相参照；每个仓库开头都对应一篇文章：
+同品牌其它机型，命令体系或刷机思路相近，排障时可以互相参照；每个仓库开头都对应一篇文章：
 
-- [华为 F30 工具包](https://github.com/dellzou/Huawei_F30_Flashing_Software_and_Tutorial)：华为 F30，改 SN、改 MAC、取超密
-- [华为 HN8145X6 工具包](https://github.com/dellzou/Huawei_HN8145X6_Flashing_Software_and_Tutorial)：华为 HN8145X6，补全 AllShell、改光模
-- [华为 HN8145XR 工具包](https://github.com/dellzou/Huawei_HN8145XR_Flashing_Software_and_Tutorial)：华为 HN8145XR，主猫改公版、从猫组网
-- [华为 K662D 工具包](https://github.com/dellzou/Huawei_K662D_Flashing_Software_and_Tutorial)：华为 K662D，从猫改光猫模式
-- [华为 V173-50 工具包](https://github.com/dellzou/Huawei_V173-50_Flashing_Software_and_Tutorial)：华为 V173-50，R24 装备包与 OBSCTool 日志
-- [华为 V173 工具包](https://github.com/dellzou/Huawei_V173_Flashing_Software_and_Tutorial)：华为 V173 主猫，补全 Shell、改公版、改 boardinfo
+- [华为 F30 工具包](https://github.com/dellzou/Huawei_F30_Flashing_Software_and_Tutorial)：改 SN、改 MAC、取超密
+- [华为 H1s-3 / H2-3 工具包](https://github.com/dellzou/Huawei_H1s3_H2-3_Flashing_Software_and_Tutorial)：四条入口、确认码与改地区
+- [华为 HN8145X6 工具包](https://github.com/dellzou/Huawei_HN8145X6_Flashing_Software_and_Tutorial)：补全 AllShell、改光模
+- [华为 HN8145XR 工具包](https://github.com/dellzou/Huawei_HN8145XR_Flashing_Software_and_Tutorial)：主猫改公版、从猫组网
+- [华为 HS8546V5 工具包](https://github.com/dellzou/Huawei_HS8546_Flashing_Software_and_Tutorial)：13 个分区与 jffs2 备份恢复
+- [华为 K662D 工具包](https://github.com/dellzou/Huawei_K662D_Flashing_Software_and_Tutorial)：从猫改光猫模式
+- [华为 V173-50 工具包](https://github.com/dellzou/Huawei_V173-50_Flashing_Software_and_Tutorial)：R24 装备包与 OBSCTool 日志
+- [华为 V173 工具包](https://github.com/dellzou/Huawei_V173_Flashing_Software_and_Tutorial)：补全 Shell、改公版、改 boardinfo
 
 ## 免责声明
 
